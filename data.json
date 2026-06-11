@@ -3963,5 +3963,46 @@
         "discountstatus": "0",
         "vatstatus": "15",
         "sdrate": "0.00"
+    },
+    {
+        "id": 310,
+        "category": "Candle",
+        "subcategory": "Balloon packet",
+        "productcodeno": "410",
+        "unit": "Pcs",
+        "balanceinhand": "200000.00",
+        "unitprice": "250",
+        "sellmode": "Yes",
+        "discountstatus": "0",
+        "vatstatus": "15",
+        "sdrate": "0.00"
+    },
+    {
+        "id": 311,
+        "category": "Candle",
+        "subcategory": "Background Set-1",
+        "productcodeno": "411",
+        "unit": "Pcs",
+        "balanceinhand": "200000.00",
+        "unitprice": "350",
+        "sellmode": "Yes",
+        "discountstatus": "0",
+        "vatstatus": "15",
+        "sdrate": "0.00"
+    },
+    {
+        "id": 312,
+        "category": "Candle",
+        "subcategory": "Background Set-2",
+        "productcodeno": "412",
+        "unit": "Pcs",
+        "balanceinhand": "200000.00",
+        "unitprice": "500",
+        "sellmode": "Yes",
+        "discountstatus": "0",
+        "vatstatus": "15",
+        "sdrate": "0.00"
     }
+
+
 ]
