@@ -4002,7 +4002,19 @@
         "discountstatus": "0",
         "vatstatus": "15",
         "sdrate": "0.00"
+    },
+    {
+        "id": 313,
+        "category": "Finished Goods",
+        "subcategory": "Cofee 1 Cup",
+        "productcodeno": "413",
+        "unit": "Pcs",
+        "balanceinhand": "200000.00",
+        "unitprice": "200",
+        "sellmode": "Yes",
+        "discountstatus": "0",
+        "vatstatus": "15",
+        "sdrate": "0.00"
     }
-
 
 ]
