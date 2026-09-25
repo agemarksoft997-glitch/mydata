@@ -3984,7 +3984,7 @@
         "productcodeno": "411",
         "unit": "Pcs",
         "balanceinhand": "200000.00",
-        "unitprice": "350",
+        "unitprice": "600",
         "sellmode": "Yes",
         "discountstatus": "0",
         "vatstatus": "15",
@@ -4193,6 +4193,397 @@
         "unit": "Pcs",
         "balanceinhand": "200000.00",
         "unitprice": "230.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+    {
+        "id": 328,
+        "category": "SPL ORDER",
+        "subcategory": "White vanilla (B).",
+        "productcodeno": "428",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2550.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 329,
+        "category": "SPL ORDER",
+        "subcategory": "White Ganach (B).",
+        "productcodeno": "429",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2550.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 330,
+        "category": "SPL ORDER",
+        "subcategory": "Marbel SPL ORDER.",
+        "productcodeno": "430",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2700.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 331,
+        "category": "SPL ORDER",
+        "subcategory": "Mix chocolate (B).",
+        "productcodeno": "431",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2700.0",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 332,
+        "category": "SPL ORDER",
+        "subcategory": "Cho. Mousse (B).",
+        "productcodeno": "432",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2700.0",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 333,
+        "category": "SPL ORDER",
+        "subcategory": "Cho. Rice (B).",
+        "productcodeno": "433",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2700.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 334,
+        "category": "SPL ORDER",
+        "subcategory": "Ganache cake (B).",
+        "productcodeno": "434",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2700.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 335,
+        "category": "SPL ORDER",
+        "subcategory": "Opera cake (B).",
+        "productcodeno": "435",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2700.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 336,
+        "category": "SPL ORDER",
+        "subcategory": "Heart shape SPL ORDER.",
+        "productcodeno": "436",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2700.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 337,
+        "category": "SPL ORDER",
+        "subcategory": "Belgiam cake (B).",
+        "productcodeno": "437",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "2700.0",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 338,
+        "category": "SPL ORDER",
+        "subcategory": "Black Forest  (B).",
+        "productcodeno": "438",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 339,
+        "category": "SPL ORDER",
+        "subcategory": "White forest (B).",
+        "productcodeno": "439",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 340,
+        "category": "SPL ORDER",
+        "subcategory": "Mix forest (B).",
+        "productcodeno": "440",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 341,
+        "category": "SPL ORDER",
+        "subcategory": "Cho. Mix forest (B).",
+        "productcodeno": "431",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 342,
+        "category": "SPL ORDER",
+        "subcategory": "Dessert cake (B).",
+        "productcodeno": "442",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 343,
+        "category": "SPL ORDER",
+        "subcategory": "Red vel vet cake (B).",
+        "productcodeno": "443",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 344,
+        "category": "SPL ORDER",
+        "subcategory": "Chocolate Decker cake (B).",
+        "productcodeno": "444",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 345,
+        "category": "SPL ORDER",
+        "subcategory": "Charnika cake (B).",
+        "productcodeno": "445",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 346,
+        "category": "SPL ORDER",
+        "subcategory": "Muskmelon cake (B).",
+        "productcodeno": "446",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 347,
+        "category": "SPL ORDER",
+        "subcategory": "Mango Mousse (B).",
+        "productcodeno": "447",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 348,
+        "category": "SPL ORDER",
+        "subcategory": "Blue berry mousse (B).",
+        "productcodeno": "448",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 349,
+        "category": "SPL ORDER",
+        "subcategory": "Raspberry mousse (B).",
+        "productcodeno": "449",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 350,
+        "category": "SPL ORDER",
+        "subcategory": "Orange mousse (B).",
+        "productcodeno": "450",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 351,
+        "category": "SPL ORDER",
+        "subcategory": "Strawberry (B).",
+        "productcodeno": "451",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 352,
+        "category": "SPL ORDER",
+        "subcategory": "Hazel Nut cake (B).",
+        "productcodeno": "452",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 353,
+        "category": "SPL ORDER",
+        "subcategory": "Cheese Musk melon (B).",
+        "productcodeno": "453",
+        "unit": "kg",
+        "balanceinhand": "200000.00",
+        "unitprice": "3000.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 354,
+        "category": "SPL ORDER",
+        "subcategory": "Cream Cheese SPL ORDER.",
+        "productcodeno": "454",
+        "unit": "Pcs",
+        "balanceinhand": "200000.00",
+        "unitprice": "3900.00",
+        "sellmode": "Yes",
+        "discountstatus": "1",
+        "vatstatus": "15.00",
+        "sdrate": "0.00"
+    },
+	
+    {
+        "id": 355,
+        "category": "SPL ORDER",
+        "subcategory": "Marine Cake -B.",
+        "productcodeno": "455",
+        "unit": "Pcs",
+        "balanceinhand": "200000.00",
+        "unitprice": "2800.00",
         "sellmode": "Yes",
         "discountstatus": "1",
         "vatstatus": "15.00",
