@@ -2785,7 +2785,7 @@
     },
     {
         "id": "233",
-        "category": "Finished Goods",
+        "category": "Tea & coffee",
         "subcategory": "Cofee 1 Cup",
         "productcodeno": "413",
         "unit": "Pcs",
@@ -3706,5 +3706,42 @@
         "sdrate": "0",
         "discountstatus": "1",
         "sellmode": "Yes"
+    },
+    {
+        "id": "310",
+        "category": "Bread & Bon",
+        "subcategory": "Bread-Big",
+        "productcodeno": "455",
+        "unit": "Pcs",
+        "unitprice": "180",
+        "vatstatus": "15",
+        "sdrate": "0",
+        "discountstatus": "1",
+        "sellmode": "Yes"
+    },
+    {
+        "id": "311",
+        "category": "Bread & Bon",
+        "subcategory": "Bread-Small",
+        "productcodeno": "456",
+        "unit": "Pcs",
+        "unitprice": "120",
+        "vatstatus": "0",
+        "sdrate": "0",
+        "discountstatus": "1",
+        "sellmode": "Yes"
+    },
+    {
+        "id": "312",
+        "category": "Bread & Bon",
+        "subcategory": "Bun",
+        "productcodeno": "457",
+        "unit": "Pcs",
+        "unitprice": "80",
+        "vatstatus": "0",
+        "sdrate": "0",
+        "discountstatus": "1",
+        "sellmode": "Yes"
     }
+
 ]
