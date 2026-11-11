@@ -20,7 +20,7 @@
         "unitprice": "20",
         "vatstatus": "15",
         "sdrate": "0",
-        "discountstatus": "0",
+        "discountstatus": "1",
         "sellmode": "Yes"
     },
     {
